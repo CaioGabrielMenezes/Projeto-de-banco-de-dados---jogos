@@ -20,3 +20,22 @@ O objetivo é aplicar conceitos de modelagem de dados e consultas SQL usando o *
 - `consultas.sql`: Consultas SQL.
 
 ---
+
+
+## 🧱 Modelo de Dados
+
+O banco de dados inclui as seguintes entidades:
+
+- **Desenvolvedora**
+- **Jogo**
+- **Gênero**
+- **Plataforma**
+- **Usuário**
+- **Avaliação**
+- **DLC**
+
+Também há tabelas associativas para representar relacionamentos **N:N**, como:
+- `genero_jogo`
+- `jogo_plataforma`
+
+---
