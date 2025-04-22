@@ -53,3 +53,16 @@ Também há tabelas associativas para representar relacionamentos **N:N**, como:
 ![image](https://github.com/user-attachments/assets/ba0691f2-e8da-4c4a-b584-4220f12d3581)
 
 
+---
+
+📥 Como executar
+
+1. Instale o PostgreSQL e o pgAdmin.
+2. Crie um banco de dados no PostgreSQL.
+3. Execute o script `modelo_fisico.sql` no pgAdmin para criar as tabelas.
+4. Insira os dados de exemplo com os comandos `INSERT` incluídos no script.
+5. Use as consultas presentes em `consultas.sql` para testar o banco de dados.
+
+---
+
+
