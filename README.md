@@ -39,3 +39,17 @@ Também há tabelas associativas para representar relacionamentos **N:N**, como:
 - `jogo_plataforma`
 
 ---
+
+## 🧱 Modelo conceitual
+
+
+![Captura de tela 2025-04-22 112753](https://github.com/user-attachments/assets/d47f74de-0616-4290-82ce-5de64647ae72)
+
+
+---
+
+## Modelo lógico
+
+![image](https://github.com/user-attachments/assets/ba0691f2-e8da-4c4a-b584-4220f12d3581)
+
+
