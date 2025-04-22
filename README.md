@@ -55,7 +55,7 @@ Também há tabelas associativas para representar relacionamentos **N:N**, como:
 
 ---
 
-📥 Como executar
+📥 Como executar os Scripts
 
 1. Instale o PostgreSQL e o pgAdmin.
 2. Crie um banco de dados no PostgreSQL.
